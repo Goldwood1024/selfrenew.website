@@ -9,10 +9,6 @@ on:
   # Allow manually triggering the workflow.
   workflow_dispatch:
 
-defaults:
-  run:
-    working-directory: .
-
 # Cancels all previous workflow runs for the same branch that have not yet completed.
 concurrency:
   # The concurrency group contains the workflow name and the branch name.
