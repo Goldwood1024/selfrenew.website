@@ -1,8 +1,8 @@
 module.exports = {
 	title: 'Eightshift Development kit',
 	tagline: 'All the tools you need to start building a modern WordPress project, using all the latest front end development tools.',
-	url: 'https://eightshift.com',
-	baseUrl: '/',
+	url: 'https://goldwood1024.github.io',
+	baseUrl: '/selfrenew.website',
 	favicon: 'img/favicon.png',
 	organizationName: 'Goldwood1024',
 	projectName: 'selfrenew.website',
