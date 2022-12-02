@@ -1,11 +1,11 @@
-name: documentation
+name: deploy
 
 on:
   push:
     paths-ignore:
       - '**.md'
     branches:
-      - main
+      - master
   # Allow manually triggering the workflow.
   workflow_dispatch:
 
