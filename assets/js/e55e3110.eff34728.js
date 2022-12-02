@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_eightshift_docs=self.webpackChunk_eightshift_docs||[]).push([[9761],{5981:function(s){s.exports=JSON.parse('{"label":"assets","permalink":"/selfrenew.website/blog/tags/assets","allTagsPath":"/selfrenew.website/blog/tags","count":1}')}}]);

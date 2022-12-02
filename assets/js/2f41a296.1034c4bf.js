@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_eightshift_docs=self.webpackChunk_eightshift_docs||[]).push([[9532],{4809:function(e){e.exports=JSON.parse('{"label":"acf","permalink":"/selfrenew.website/blog/tags/acf","allTagsPath":"/selfrenew.website/blog/tags","count":1}')}}]);

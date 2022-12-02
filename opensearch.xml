@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Eightshift Development kit</ShortName>
+  <Description>Search Eightshift Development kit</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://goldwood1024.github.io/selfrenew.website/img/favicon.png</Image>
+  <Url type="text/html" method="get" template="https://goldwood1024.github.io/selfrenew.website/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://goldwood1024.github.io/selfrenew.website/opensearch.xml" />
+  <moz:SearchForm>https://goldwood1024.github.io/selfrenew.website/</moz:SearchForm>
+</OpenSearchDescription>

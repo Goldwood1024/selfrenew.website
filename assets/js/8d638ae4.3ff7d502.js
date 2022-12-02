@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_eightshift_docs=self.webpackChunk_eightshift_docs||[]).push([[8084],{9344:function(e){e.exports=JSON.parse('{"label":"fonts","permalink":"/selfrenew.website/blog/tags/fonts","allTagsPath":"/selfrenew.website/blog/tags","count":1}')}}]);

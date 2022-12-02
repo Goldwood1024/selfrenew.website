@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_eightshift_docs=self.webpackChunk_eightshift_docs||[]).push([[4729],{4598:function(e){e.exports=JSON.parse('{"label":"theme options","permalink":"/selfrenew.website/blog/tags/theme-options","allTagsPath":"/selfrenew.website/blog/tags","count":1}')}}]);

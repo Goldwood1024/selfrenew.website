@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_eightshift_docs=self.webpackChunk_eightshift_docs||[]).push([[9427],{8390:function(e){e.exports=JSON.parse('{"label":"wpcli","permalink":"/selfrenew.website/blog/tags/wpcli","allTagsPath":"/selfrenew.website/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_eightshift_docs=self.webpackChunk_eightshift_docs||[]).push([[5128],{6270:function(e){e.exports=JSON.parse('{"label":"components","permalink":"/selfrenew.website/blog/tags/components","allTagsPath":"/selfrenew.website/blog/tags","count":3}')}}]);
